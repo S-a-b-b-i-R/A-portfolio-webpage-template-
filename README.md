@@ -1,2 +1,2 @@
-# A-portfolio-webpage-template-
+# A-portfolio-webpage
 HTML, CSS, JavaScript 
